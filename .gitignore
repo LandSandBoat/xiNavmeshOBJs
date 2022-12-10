@@ -1,0 +1,2 @@
+# OBJ files can be quite big, save bandwidth by ignoring them and tracking .7z files instead
+*.obj
